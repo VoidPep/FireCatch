@@ -4,6 +4,9 @@ FireCatch ajuda a fornecer tanto às equipes de apoio quanto aos usuários um ma
 ## Mocks no Canva
 https://www.canva.com/design/DAGSrdVUytk/pyTCZ7Zy2j6JjZE3TLr4Wg/edit
 
+## Apresentação
+https://www.canva.com/design/DAGSti2JJWI/oHW7BTrn8vrfxdFhhpbsRg/edit
+
 ## Mapeamento da Comunidade
 
 Este software foi desenvolvido para fornecer alertas rápidos e eficientes sobre o avanço de áreas afetadas pelo fogo e potenciais queimadas, apoiando tanto equipes de combate a incêndios em áreas rurais quanto pequenos agricultores impactados. Ele visa facilitar as ações de prevenção e combate aos incêndios florestais.
